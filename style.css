@@ -1,0 +1,25 @@
+li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+li:last-child{
+    padding-right: 5px;
+}
+#VerticalBarRight{
+  float: right;
+}
+
+.GoogleImage {
+  width: 17%;
+  padding-left: 1125px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  width: 17%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
